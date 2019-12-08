@@ -28,3 +28,4 @@ C:\Estudos\AspNetCore\Demo2.AspNetCore.Mvc\src\Demo2.AspNetCore.Mvc.Site\bin\Deb
 C:\Estudos\AspNetCore\Demo2.AspNetCore.Mvc\src\Demo2.AspNetCore.Mvc.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Estudos\AspNetCore\Demo2.AspNetCore.Mvc\src\Demo2.AspNetCore.Mvc.Site\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart - Copy.cshtml.g.cs
 C:\Estudos\AspNetCore\Demo2.AspNetCore.Mvc\src\Demo2.AspNetCore.Mvc.Site\obj\Debug\netcoreapp2.2\Demo2.AspNetCore.Mvc.Site.csprojAssemblyReference.cache
+C:\Estudos\AspNetCore\Demo2.AspNetCore.Mvc\src\Demo2.AspNetCore.Mvc.Site\obj\Debug\netcoreapp2.2\Razor\Areas\Produtos\Views\Cadastro\Index.cshtml.g.cs
